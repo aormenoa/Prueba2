@@ -5,3 +5,5 @@ primera version
 create table cliente(
 nombre string,
 apellidos string)
+--tercer
+insert into cliente as select * from cliente_tmp;
