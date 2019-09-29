@@ -1,6 +1,7 @@
 creacion de tablas
 primera version
--- segunda version
+-- Autor: arturo rojas
+-- creacion tablas
 create table cliente(
 nombre string,
 apellidos string)
